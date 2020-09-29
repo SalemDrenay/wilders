@@ -1,0 +1,23 @@
+{
+  "name": "wilders",
+  "version": "1.0.0",
+  "description": "",
+  "main": "wilder.js",
+  "scripts": {
+    "start": "node wilder.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SalemDrenay/wilders.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SalemDrenay/wilders/issues"
+  },
+  "homepage": "https://github.com/SalemDrenay/wilders#readme",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
